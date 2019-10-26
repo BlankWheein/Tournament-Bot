@@ -1,0 +1,10 @@
+{
+  "ChannelId": false,
+  "Botowner": 181125548389433344,
+  "Guildid": 493279314377441290,
+  "DeleteAllOnCatDel": true,
+  "DelOnMsg": false,
+  "MatchmakerId": false,
+  "GameRooms": 0,
+  "JoinedAt": "2019-10-26 06:38:45.089896"
+}

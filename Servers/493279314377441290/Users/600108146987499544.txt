@@ -1,0 +1,11 @@
+{
+  "Wins": 0,
+  "Defeats": 0,
+  "Leaves": 0,
+  "Surrenders": 0,
+  "Disputes": 0,
+  "Tournaments Played": 0,
+  "Warnings": 0,
+  "Read_Rules": true,
+  "JoinedAt": "2019-10-26 06:49:56.301365"
+}

@@ -18,6 +18,11 @@ def genGuildSettings(guild):
 
     with open(r"Servers\{}\Settings\data.txt".format(guild.id), "w+") as outfile:
         json.dump(GuildInfo, outfile, indent=2)
+    GuildInfo = {}
+    GuildInfo["Cats"] = {}
+    GuildInfo["Cat_Groups"] = {}
+    with open(r"Servers\{}\Settings\rooms.txt".format(guild.id), "w+") as outfile:
+        json.dump(GuildInfo, outfile, indent=2)
 
 class Dguild:
     memberid = 0

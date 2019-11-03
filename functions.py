@@ -39,7 +39,7 @@ async def idtouser(members, id):
 async def idtochannel(channels, id):
     id = int(id)
     try:
-        mention : discord.Member = discord.utils.get(channels,id = id)
+        mention : discord.TextChannel = discord.utils.get(channels,id = id)
         return mention
     except Exception as error:
         print(error)

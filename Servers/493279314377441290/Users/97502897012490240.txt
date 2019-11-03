@@ -7,5 +7,5 @@
   "Tournaments Played": 0,
   "Warnings": 0,
   "Read_Rules": true,
-  "JoinedAt": "2019-10-26 06:49:56.246368"
+  "JoinedAt": "2019-10-28 04:24:13.350979"
 }
